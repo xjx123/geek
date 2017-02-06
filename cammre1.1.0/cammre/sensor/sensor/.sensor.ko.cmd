@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/share/item/sensor/sensor/sensor.ko := arm-linux-ld -EL -r  -T /root/linux-3.0.8/scripts/module-common.lds --build-id  -o /mnt/hgfs/share/item/sensor/sensor/sensor.ko /mnt/hgfs/share/item/sensor/sensor/sensor.o /mnt/hgfs/share/item/sensor/sensor/sensor.mod.o
